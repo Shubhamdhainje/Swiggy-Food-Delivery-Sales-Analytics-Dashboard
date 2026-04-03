@@ -30,33 +30,33 @@ The raw dataset contains 197,430 order records with the following 14 columns:
 
 Column	Description
 
-State	Indian state where the order was placed
+State- Indian state where the order was placed
 
-City	City of the order
+City -	City of the order
 
-Order Date	Date of the transaction
+Order Date -	Date of the transaction
 
-Day	Day of the week (Mon–Sun)
+Day - 	Day of the week (Mon–Sun)
 
-Quarter	Financial quarter (Q1, Q2, Q3)
+Quarter	- Financial quarter (Q1, Q2, Q3)
 
-Week No	Week number (1–36)
+Week No	- Week number (1–36)
 
-Restaurant Name	Name of the restaurant
+Restaurant Name -	Name of the restaurant
 
-Location	Locality within the city
+Location -	Locality within the city
 
-Category	Food category / menu section
+Category -	Food category / menu section
 
-Dish Name	Specific dish ordered
+Dish Name -	Specific dish ordered
 
-Food Type	Veg or Non-Veg
+Food Type	- Veg or Non-Veg
 
-Price (INR)	Order value in Indian Rupees
+Price (INR) - Order value in Indian Rupees
 
-Rating	Customer rating for the order
+Rating	- Customer rating for the order
 
-Rating Count	Number of ratings received
+Rating Count -	Number of ratings received
 
 Coverage:
 
